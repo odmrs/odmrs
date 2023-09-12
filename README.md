@@ -8,7 +8,7 @@ I'm a 18 years old "developer" since I was 15. I love to code and how to solve d
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [omarcosviniciusdev@gmail.com](mailto:omarcosdev@gmail.com)
 * 🚀  I'm currently just studying
-* 🧠  I'm studying Common Lisp.
+* 🧠  I'm studying Common Lisp, English and Russian.
 * 🤝  I'm open to collaborating on projects of any kind
 * ⚡  I love sports and my favorite is Judo and Basketball
 ### Skills ?
