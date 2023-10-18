@@ -4,7 +4,7 @@ Hi 👀 My name is Marcos
 Student | Systems Analysis and Development
 -----------------------------
 
-I'm a 18 years old "developer" since I was 15. I love to code and how to solve deep problems using high-edge tech lol. My main focus are back-end development. I am also a student at [UniCesumar|EAD](https://www.unicesumar.edu.br/home/) and I study computer science self-taught following this [roadmap Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS).
+I'm a 18 years old "developer" since I was 15. I love to code and how to solve deep problems using high-edge tech lol. My main focus are back-end development. I am also a student at [UniCesumar|EAD](https://www.unicesumar.edu.br/home/) and I study computer science self-taught.
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [omarcosviniciusdev@gmail.com](mailto:omarcosdev@gmail.com)
 * 🚀  I'm currently just studying
@@ -14,7 +14,6 @@ I'm a 18 years old "developer" since I was 15. I love to code and how to solve d
 ### Skills ?
 
 #### Soon!
- <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Common Lisp" width="42" height="42"/><img src="https://racket-lang.org/img/racket-logo.svg" alt="Common Lisp" width="40" height="40"/>
 
 ### Socials
 
