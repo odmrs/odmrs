@@ -11,9 +11,9 @@ I'm a 18 years old "developer" since I was 15. I love to code and how to solve d
 * 🧠  I'm studying Python, C(and others languages), English and Russian (i'll start learning chinese soon).
 * 🤝  I'm open to collaborating on projects of any kind.
 * ⚡  I love sports and my favorite is Judo and Basketball.
-### Skills ?
-[![My Skills](https://skillicons.dev/icons?i=py)](https://github.com/odmrs)
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=py,linux,git)](https://github.com/odmrs)
 
 ### Socials
 
-<a href="https://www.linkedin.com/in/marcos-vin%C3%ADcius-8ab575260/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marcos-vin%C3%ADcius-8ab575260/)
