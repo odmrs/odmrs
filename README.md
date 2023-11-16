@@ -12,7 +12,7 @@ I'm a 18 years old "developer" since I was 15. I love to code and how to solve d
 * 🤝  I'm open to collaborating on projects of any kind.
 * ⚡  I love sports and my favorite is Judo and Basketball.
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=py,linux,git)](https://github.com/odmrs)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,linux,git)](https://github.com/odmrs)
 
 ### Socials
 
