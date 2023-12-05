@@ -8,11 +8,11 @@ I'm a 18 years old "developer" since I was 15. I love to code and how to solve d
 * 🌍  I'm based in São Paulo, Brazil.
 * ✉️  You can contact me at [omarcosviniciusdev@gmail.com](mailto:omarcosviniciusdev@gmail.com).
 * 🚀  I'm currently just studying.
-* 🧠  I'm studying Python, C(and others languages), English and Russian (i'll start learning chinese soon).
+* 🧠  I'm studying C++, C, Python(and others languages), English and Russian (i'll start learning chinese soon).
 * 🤝  I'm open to collaborating on projects of any kind.
 * ⚡  I love sports and my favorite is Judo and Basketball.
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=c,py,regex,linux,git)](https://github.com/odmrs)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,regex,linux,git)](https://github.com/odmrs)
 
 ### Socials
 
