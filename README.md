@@ -19,7 +19,7 @@ I'm a 19 years old "developer" since I was 15. I love to code and how to solve d
 * 🌍  I'm based in São Paulo, Brazil.
 * ✉️  You can contact me at [omarcosviniciusdev@gmail.com](mailto:omarcosviniciusdev@gmail.com).
 * 🚀  I'm currently just studying and make somes freelancers.
-* 🧠  I'm studying PHP, Go(lang), C and English.
+* 🧠  I'm studying Go(lang), PHP, C and English.
 * ⚡  I love sports and my favorite is Judo and Basketball.
 * 🤝  I'm open to collaborating on projects of any kind.
 <img src="https://raw.githubusercontent.com/odmrs/odmrs/master/togetherhub.jpeg" width="500">
