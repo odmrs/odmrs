@@ -28,4 +28,4 @@ I'm a 19 years old "developer" since I was 15. I love to code and how to solve d
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,go,linux,git)](https://github.com/odmrs)
 
 ### Socials
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marcos-vin%C3%ADcius-8ab575260/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marcos-vinicius-8ab575260/)
