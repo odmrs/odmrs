@@ -12,7 +12,7 @@ Welcome! Feel free to copy me! (FREE AS IN FREEDOM)
 <h3 align="center">BACKEND DEVELOPER</h3>
 
 <img align="right"
-    width="490px" src="https://raw.githubusercontent.com/odmrs/odmrs/master/togetherhub.jpeg" width="500">
+    width="380px" src="https://raw.githubusercontent.com/odmrs/odmrs/master/togetherhub.jpeg" width="500">
     
 I'm a 19 years old "developer" since I was 15. I love to code and how to solve deep problems using high-edge tech lol. My main focus are back-end development. I am also a student at [UniCesumar|EAD](https://www.unicesumar.edu.br/home/) and I study computer science self-taught.
  
