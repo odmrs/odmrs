@@ -8,12 +8,12 @@
                                                                                                    
 Welcome! Feel free to copy me! (FREE AS IN FREEDOM)
 -->
-Hi 👀 Marcos here!
-==========================
+<h2 align="center">Hi 👋 Marcos here!!</h2>
+<h3 align="center">BACKEND DEVELOPER</h3>
 
-BACKEND DEVELOPER
------------------------------
-
+<img align="right"
+    width="490px" src="https://raw.githubusercontent.com/odmrs/odmrs/master/togetherhub.jpeg" width="500">
+    
 I'm a 19 years old "developer" since I was 15. I love to code and how to solve deep problems using high-edge tech lol. My main focus are back-end development. I am also a student at [UniCesumar|EAD](https://www.unicesumar.edu.br/home/) and I study computer science self-taught.
  
 * 🌍  I'm based in São Paulo, Brazil.
@@ -22,7 +22,7 @@ I'm a 19 years old "developer" since I was 15. I love to code and how to solve d
 * 🧠  I'm studying Go(lang), PHP, C and English.
 * ⚡  I love sports and my favorite is Judo and Basketball.
 * 🤝  I'm open to collaborating on projects of any kind.
-<img src="https://raw.githubusercontent.com/odmrs/odmrs/master/togetherhub.jpeg" width="500">
+
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,go,linux,git)](https://github.com/odmrs)
