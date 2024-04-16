@@ -8,12 +8,10 @@
                                                                                                    
 Welcome! Feel free to copy me! (FREE AS IN FREEDOM)
 -->
+
 <h2 align="center">Hi 👋 Marcos here!!</h2>
 <h3 align="center">BACKEND DEVELOPER</h3>
 
-<img align="right"
-    width="380px" src="https://raw.githubusercontent.com/odmrs/odmrs/master/togetherhub.jpeg" width="500">
-    
 I'm a 19 years old "developer" since I was 15. I love to code and how to solve deep problems using high-edge tech lol. My main focus are back-end development. I am also a student at [UniCesumar|EAD](https://www.unicesumar.edu.br/home/) and I study computer science self-taught.
  
 * 🌍  I'm based in São Paulo, Brazil.
