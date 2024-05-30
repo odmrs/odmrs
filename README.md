@@ -36,14 +36,15 @@ Welcome! Feel free to copy me! (FREE AS IN FREEDOM)
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-I'm a 19 years old "developer" since I was 15. I love to code and how to solve deep problems using high-edge tech lol. My main focus are back-end development. I am also a student at [UniCesumar|EAD](https://www.unicesumar.edu.br/home/) and I study computer science self-taught.
- 
-* 🌍  I'm based in São Paulo, Brazil.
-* ✉️  You can contact me at [omarcosviniciusdev@gmail.com](mailto:omarcosviniciusdev@gmail.com).
-* 🚀  I'm currently just studying and make somes freelancers.
-* 🧠  I'm studying Go and English.
-* ⚡  I love sports and my favorite is Judo and Basketball.
-* 🤝  I'm open to collaborating on projects of any kind.
+🌱 About Me: I'm a 19-year-old developer who started coding at 15. I have a passion for solving complex problems using cutting-edge technology, with a primary focus on back-end development.
+
+* 🎓 Education: I'm currently studying Computer Science at UniCesumar | EAD and also pursuing self-taught learning in various areas of computer science.
+* 🌍 Location: Based in São Paulo, Brazil.
+* ✉️ Contact: You can reach out to me at omarcosviniciusdev@gmail.com.
+* 🚀 Current Work: Currently, I'm focused on studying and working on freelance projects.
+* 🧠 Current Focus: I'm learning Go and improving my English language skills.
+* ⚡ Hobbies: I love sports, especially Judo and Basketball. I'm also training and passionate about Capoeira.
+* 🤝 Collaboration: Open to collaborating on projects of any kind.
 
 <p align="center">
   <a href="https://golang.org">
