@@ -41,7 +41,7 @@ Welcome! Feel free to copy me! (FREE AS IN FREEDOM)
 * 🎓 Education: I'm currently studying Computer Science at UniCesumar | EAD and also pursuing self-taught learning in various areas of computer science.
 * 🌍 Location: Based in São Paulo, Brazil.
 * ✉️ Contact: You can reach out to me at omarcosviniciusdev@gmail.com.
-* 🚀 Current Work: Currently, I'm focused on studying and working on freelance projects.
+* 🚀 Current Work: Currently, I'm working at [BRLA Digital](https://www.brla.digital/)
 * 🧠 Current Focus: I'm learning Go and improving my English language skills.
 * ⚡ Hobbies: I love sports, especially Judo and Basketball. I'm also training and passionate about Capoeira.
 * 🤝 Collaboration: Open to collaborating on projects of any kind.
